@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#B8B8B8"
+            android:padding="5dp"
+            android:text="Visit us on:"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/imgLinkedin"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_weight="0.08"
+                android:src="@drawable/linkedin" />
+
+            <ImageView
+                android:id="@+id/imgInstagram"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.08"
+                android:src="@drawable/instagram" />
+
+            <ImageView
+                android:id="@+id/imgGithub"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_weight="0.08"
+                android:src="@drawable/github" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#B8B8B8"
+            android:padding="5dp"
+            android:text="Contact us :"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="avesh1028@gmail.com"
+            android:textAlignment="center"
+            android:textColor="#36454F"
+            android:textSize="25dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#B8B8B8"
+            android:padding="5dp"
+            android:text="Website:"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/txtWebsiteUrl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="https://github.com/jaymaheshwarii"
+            android:textAlignment="center"
+            android:textColor="#36454F"
+            android:textSize="21dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#B8B8B8"
+            android:padding="5dp"
+            android:text="About the Developer:"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="Java Developer\n Android Developer\nGood at Interpersonal Skills\nLoves Problem Solving"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:background="#FFE5B4"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
