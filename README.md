@@ -5,9 +5,9 @@
 
 <img src="Project Images/pic1.jpg" width="250" height="600"> <br/>
 <img src="Project Images/pic2.jpg" width="250" height="600"> <br/>
-<img src="Project Images/pic3.jpg" width="250" height="600> <br/>
-<img src="Project Images/pic4.jpg" width="250" height="600> <br/>
-<img src="Project Images/pic5.jpg" width="250" height="600> <br/>
-<img src="Project Images/pic6.jpg" width="250" height="600> <br/>
-<img src="Project Images/pic7.jpg" width="250" height="600> <br/>
+<img src="Project Images/pic3.jpg" width="250" height="600"> <br/>
+<img src="Project Images/pic4.jpg" width="250" height="600"> <br/>
+<img src="Project Images/pic5.jpg" width="250" height="600"> <br/>
+<img src="Project Images/pic6.jpg" width="250" height="600"> <br/>
+<img src="Project Images/pic7.jpg" width="250" height="600"> <br/>
 
