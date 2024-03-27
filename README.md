@@ -3,7 +3,7 @@
 • Integrated with smart suggestions, custom items, check off and progress tracking.  
 • Technology Used : Java, SQLite(Room Database) and Android Studio
 
-<img src="Project Images/pic1.jpg" width="300" height="600" style="width: 50%;">
+<img src="Project Images/pic1.jpg" width="300" height="600">
 <img src="Project Images/pic2.jpg" width="300" height="600">
 <img src="Project Images/pic3.jpg" width="300" height="600"> 
 <img src="Project Images/pic4.jpg" width="300" height="600">
